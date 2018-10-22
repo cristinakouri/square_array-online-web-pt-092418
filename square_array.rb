@@ -7,4 +7,3 @@ def square_array(array)
   blank
   binding.pry
 end 
-square_array([2, 2, 2])
